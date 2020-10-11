@@ -1,3 +1,5 @@
+#!/bin/bash
+# Usage: ./device_adapt.sh $oldromname $newromname 
 mv .git /tmp
 
 export oldstring=$1
